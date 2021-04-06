@@ -1,0 +1,13 @@
+AME 565
+Assignment 1
+Due: Sept 15
+
+Using Matlab: program the steepest descent method for any arbitrary two dimensional problem. 
+Graphical representation of the optimization process is required. 
+Upload a clearly commented Matlab file. 
+Have Matlab create a plot giving the objective function value w.r.t to the number of iterations. 
+The code should automatically scale the variables. 
+Using a quadratic function, use three types of "line" searches: 
+1. arbitrary step value
+2. exact line search using fminbnd function
+3. exact line search using analytical expression for quadratic problems derived in class.
