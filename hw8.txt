@@ -1,0 +1,10 @@
+Homework 8
+
+xWith Matlab: create a radial basis function metamodel for any arbitrary  function of 2 variables. 
+xUse lhsdesign to create the design of experiments. 
+Find the optimal radial basis parameter "c" using:
+   leave-one-out cross validation
+   4-fold cross validation. 
+For a function of your choice: plot the actual function, the approximated function, and give the R2 and RMAE on a set of points not used to build the RBF approximation.
+
+Redo HW 8 on RBF. Add an optimization where the surrogate is updated iteratively as seen in class. Extra credit (10 points): implement a trust region scheme.
