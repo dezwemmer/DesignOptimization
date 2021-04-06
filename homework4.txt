@@ -1,0 +1,13 @@
+xProgram SLP with Matlab for any arbitrary problem with n dimensions. 
+xUse an already made linear programming package.
+xUse finite differences for the sensitivities. 
+xBy default, use constant move limits. 
+For 2D problems, represent graphically the linearized constraints and objective. 
+xDepict the evolution of the iterate. 
+Generate plots giving the objective function and the constraints violation w.r.t to the number iterations. 
+xFind the Lagrange multipliers at the optimum. 
+
+Provide a report with explanations and the results for an example with at least two nonlinear constraints (such as the one in the notes). 
+Upload commented Matlab file.
+
+Extra credit (10 points): Use adaptive move limits
